@@ -28,6 +28,7 @@ function pricing() {
                 </div>
               </div>
             </nav>
+            
     </div>
   )
 }

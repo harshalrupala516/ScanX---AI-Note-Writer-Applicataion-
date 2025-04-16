@@ -2,7 +2,7 @@
 import React, { useEffect } from "react";
 import { useParams } from "next/navigation";
 import Workspace_header from "./_components/workspace_header";
-import PdfViewer from "../../workspace/[fileid]/_components/PdfViewer";
+import PdfViewer from "./_components/PdfViewer";
 import { useQueries } from "convex/react";
 import { v } from "convex/values";
 import { useQuery } from "convex/react";

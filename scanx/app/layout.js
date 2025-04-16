@@ -5,7 +5,6 @@ import { Toaster } from "../components/components/ui/sonner";
 
 const montserratFont = Montserrat({
   subsets: ["latin"],
-  weights: ["300", "400", "500", "600", "700"],
 });
 
 export const metadata = {
